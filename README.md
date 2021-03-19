@@ -1,2 +1,2 @@
 # Python-assignments
-All assignments are coded in python
+All assignments are created using jupiter notebook
