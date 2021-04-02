@@ -1,2 +1,2 @@
 # Python-Developments
-All assignments are created using jupiter notebook
+Developed using jupiter notebook
